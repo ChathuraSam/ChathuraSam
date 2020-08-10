@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently studying in University of Jaffna
+- 🔭 Concluded studies in University of Jaffna in Aug 2020
+- 😄 waiting for Convocation
+- 🌱 Seeking for job opportunities
 - 📫 How to reach me: http://chathura-samarajeewa.me/
-- 🌱 I’m currently learning "Machine Learning"
+
 <!--
 **ChathuraSam/ChathuraSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
