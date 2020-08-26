@@ -2,6 +2,7 @@
 - 🔭 Concluded studies in University of Jaffna in Aug 2020
 - 😄 waiting for Convocation
 - 🌱 Seeking for job opportunities
+- 💻 Freelancer
 - 📫 How to reach me: http://chathura-samarajeewa.me/
 
 <!--
