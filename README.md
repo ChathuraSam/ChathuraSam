@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Age-27-blue" />
 <img src="https://img.shields.io/badge/Lives-Sri Lanka-blue" />
 
-- Software Engineer based on colombo Sri Lanka
+- Software Engineer based on Colombo Sri Lanka
 - Tech enthusiast
 - Pet Lover
 - Guitar Player
