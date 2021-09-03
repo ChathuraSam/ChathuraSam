@@ -40,5 +40,6 @@
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </p>
