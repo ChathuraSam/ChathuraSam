@@ -42,4 +42,6 @@
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img src="https://img.icons8.com/ios/50/000000/lambda.png"/>
 </p>
