@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Age-29-blue" />
 <img src="https://img.shields.io/badge/Lives-Sri Lanka-blue" />
 
-- Associate Software Engineer at Wiley Sri Lanka
+- Software Engineer at Wiley Sri Lanka
 - Tech enthusiast
 - Pet Lover
 - Guitar Player
